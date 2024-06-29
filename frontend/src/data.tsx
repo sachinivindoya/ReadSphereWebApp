@@ -4,7 +4,7 @@ export const sampleBooks: Books[] = [
   {
     name: "Vendor of sweets",
     slug: "vendor of sweets",
-    image: "../public/images/b1.jpg",
+    image: "/images/b1.jpg",
     category: "fiction",
     brand: "M.D.Gunasena",
     price: 750,
@@ -17,7 +17,7 @@ export const sampleBooks: Books[] = [
   {
     name: "Stories From Shakesphere",
     slug: "Longman",
-    image: "../public/images/b2.jpg",
+    image: "/images/b2.jpg",
     category: "plays",
     brand: "M.D.Gunasena",
     price: 870,
@@ -30,7 +30,7 @@ export const sampleBooks: Books[] = [
   {
     name: "Desert Flower",
     slug: "Waris Dirie",
-    image: "../public/images/b3.jpg",
+    image: "/images/b3.jpg",
     category: "Biography",
     brand: "GoodReads",
     price: 1050,
